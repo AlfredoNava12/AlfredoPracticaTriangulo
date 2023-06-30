@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(137, 177, 241, 0.511);
+}
+body{
+    background-image: url('FONDO.jpg');
+    padding: 15px;
+    justify-content: center;
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Times New Roman';
+    color: black;
+}
+button{
+    background-color:rgba(63, 195, 63, 0.689);
+}
+fieldset{
+    background-color: rgba(134, 198, 233, 0.728);
+}
